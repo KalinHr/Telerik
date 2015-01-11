@@ -1,0 +1,14 @@
+Visual Studio
+Àn integrated development environment (IDE) from Microsoft. It is used to develop 
+computer programs for Microsoft Windows, as well as web sites, web applications and web services.
+Visual Studio supports different programming languages and allows the code editor and debugger to support 
+nearly any programming language, provided a language-specific service exists.
+
+Code::Blocks
+Code::Blocks is a free, open source cross-platform IDE which supports multiple compilers including GCC, Clang and Visual C++.
+Code::Blocks is being developed for Windows, Linux, and Mac OS X.
+
+Eclipse
+It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, 
+Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications 
+in other programming languages
