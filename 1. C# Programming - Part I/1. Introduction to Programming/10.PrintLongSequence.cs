@@ -8,10 +8,10 @@ class LongSequence
     {
         for (int i = 2; i < 1002; i++)
         {
-            int n = i;
-            if (n % 2 != 0)
-                n = -n;
-            Console.Write(n + " ");
+            if (i % 2 != 0)
+                Console.Write(-i + " ");
+            else
+                Console.Write(i + " ");
         }
     }
 }
