@@ -11,7 +11,7 @@ class PointInACircle
         Console.Write("y = ");
         double y = Convert.ToDouble(Console.ReadLine());
         bool inside = false;
-        if (Math.Sqrt(Math.Abs(x) * Math.Abs(x) + Math.Abs(y) * Math.Abs(y)) <= 2)
+        if (Math.Sqrt(x * x + y * y) < 2)
             inside = true;
     }
 }
