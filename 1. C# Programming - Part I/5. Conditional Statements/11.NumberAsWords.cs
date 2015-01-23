@@ -37,7 +37,6 @@ class NumberAsWords
             if (number == 0 && word == "")
                 word = a[number];
         }
-        Console.WriteLine(word);
     }
 }
 
